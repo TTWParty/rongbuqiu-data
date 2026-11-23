@@ -7,8 +7,8 @@
     "tags": {
       "id": "tags",
       "version": "2026.11.23",
-      "title": "Danbooru + NovelAI V5 十万全量双语词库",
-      "summary": "含 35,384 角色、24,881 画师、8,414 作品与 30,693 常规标签，完整简体中文译名与常用别名（支持搜纲手/雏田/休塔尔克等）",
+      "title": "Danbooru + NAI 双语全量词库",
+      "summary": "含 35,384 角色、24,881 画师、8,414 作品与 30,693 常规标签，完整简体中文译名与常用别名",
       "path": "packs/tags-100k.tsv.gz",
       "format": "rbq-tagdb-gz",
       "count": 99952,
@@ -25,8 +25,8 @@
     "recipes": {
       "id": "recipes",
       "version": "2026.11.23",
-      "title": "V5 视觉动作、场景与构图配方库",
-      "summary": "含 261 条零发色污染 V5 结构化配方，覆盖空间特殊取景、多人施受互动、姿势体位、36 类场景地点、细分穿搭变装配饰、衣物状态与光影微细节",
+      "title": "AI 分镜视觉模板库",
+      "summary": "覆盖空间取景、多人互动、姿势体位、36 类场景地点、细分穿搭与光影细节的成套 V5 参考模板",
       "path": "packs/recipes-v5.json.gz",
       "format": "rongbuqiu-recipes-gz",
       "count": 261,
