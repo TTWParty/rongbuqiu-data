@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2026.11.23.3",
-  "updatedAt": "2026-11-23T18:49:58.863Z",
+  "version": "2026.11.23.4",
+  "updatedAt": "2026-11-23T19:11:56.212Z",
   "repo": "TTWParty/rongbuqiu-data",
   "packs": {
     "tags": {
@@ -24,15 +24,15 @@
     },
     "recipes": {
       "id": "recipes",
-      "version": "2026.11.23.3",
+      "version": "2026.11.23.4",
       "title": "AI 分镜视觉模板库",
       "summary": "合入全部蒸馏扩展配方共 2,981 套：覆盖精编核心构图/互动/36类场景/细分穿搭与全量世界书扩展动作库",
       "path": "packs/recipes-v5.json.gz",
       "format": "rongbuqiu-recipes-gz",
       "count": 2981,
-      "bytes": 454930,
-      "sha256": "504af2bf3bc1fac30a4631f844b6a6f268507ff6fd6968d33138f1624528d186"
+      "bytes": 445711,
+      "sha256": "8ecf8e13b83c9bae60fc22b563198c746a97d8493a1c0f2d52ab109436c706b1"
     }
   },
-  "ref": "v2026.11.23.3"
+  "ref": "v2026.11.23.4"
 }
