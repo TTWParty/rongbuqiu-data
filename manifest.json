@@ -1,25 +1,25 @@
 {
   "schema": 1,
-  "version": "2026.11.23",
-  "updatedAt": "2026-11-23T05:23:04.723Z",
+  "version": "2026.11.23.2",
+  "updatedAt": "2026-11-23T07:40:54.886Z",
   "repo": "TTWParty/rongbuqiu-data",
   "packs": {
     "tags": {
       "id": "tags",
-      "version": "2026.11.23",
+      "version": "2026.11.23.2",
       "title": "Danbooru + NAI 双语全量词库",
-      "summary": "含 35,384 角色、24,881 画师、8,414 作品与 30,693 常规标签，完整简体中文译名与常用别名",
+      "summary": "含 35,389 角色、24,887 画师、8,415 作品与 30,732 常规标签，完整简体中文译名与常用别名",
       "path": "packs/tags-100k.tsv.gz",
       "format": "rbq-tagdb-gz",
-      "count": 99952,
-      "bytes": 2727073,
-      "sha256": "bfeced326a534c4bf7ff5f3d267c1454e26536cbb271ae7f77bd881bf353f227",
+      "count": 100020,
+      "bytes": 2733628,
+      "sha256": "b3db756357aeb5ba52986b1da5ffd9f14ee482f31050391f198fca1f98c8be16",
       "categories": {
-        "general": 30693,
-        "artist": 24881,
-        "copyright": 8414,
-        "character": 35384,
-        "meta": 580
+        "general": 30732,
+        "artist": 24887,
+        "copyright": 8415,
+        "character": 35389,
+        "meta": 597
       }
     },
     "recipes": {
@@ -33,5 +33,6 @@
       "bytes": 31070,
       "sha256": "35c970c031a08a7a1727ea61447cb9068ba011348a0ac8b77ea5cde2e09efced"
     }
-  }
+  },
+  "ref": "v2026.11.23.2"
 }
