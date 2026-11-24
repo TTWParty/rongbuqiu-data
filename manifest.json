@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2026.11.23.5",
-  "updatedAt": "2026-11-24T02:32:24.331Z",
+  "version": "2026.11.23.6",
+  "updatedAt": "2026-11-24T03:36:05.799Z",
   "repo": "TTWParty/rongbuqiu-data",
   "packs": {
     "tags": {
@@ -24,15 +24,27 @@
     },
     "recipes": {
       "id": "recipes",
-      "version": "2026.11.23.5",
+      "version": "2026.11.23.6",
       "title": "AI 分镜视觉模板库",
       "summary": "合入全部蒸馏扩展配方共 2,980 套：全量清理错键/锁死门禁/同组消歧并对齐运行时原子",
       "path": "packs/recipes-v5.json.gz",
       "format": "rongbuqiu-recipes-gz",
       "count": 2980,
-      "bytes": 541297,
-      "sha256": "72fd3b6d692d6a186ae32b5647e197c7077c8fe6d954b16247c295d36528f0ff"
+      "bytes": 541453,
+      "sha256": "30c4d5f37cfa213cae1ae3d3bb6dd17583a454724411a2e1bdd8cb831fc1e60a"
+    },
+    "semantic": {
+      "id": "semantic",
+      "version": "2026.11.23.6",
+      "title": "语义增强索引",
+      "summary": "Potion + BGE-base-zh 融合蒸馏的本地纯 JS 静态语义向量（19,787 词 · 112 维 Int8 · 覆盖 2,980 套配方），换说法零 LLM 加费秒级召回",
+      "path": "packs/semantic-zh.bin.gz",
+      "format": "rbq-semvec-bin-gz",
+      "count": 19787,
+      "dim": 112,
+      "bytes": 2537116,
+      "sha256": "8c826775cf44e49d17a3202276a73bcb9ad29ca36d7cbae73d1441ea29ee8c2e"
     }
   },
-  "ref": "v2026.11.23.5"
+  "ref": "v2026.11.23.6"
 }
